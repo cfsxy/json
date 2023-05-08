@@ -1,0 +1,35 @@
+﻿{
+  "spider": "https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar",
+  "sites": [
+    {
+      "key": "one",
+      "name": "One",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://192.168.1.1:5705/config/2"
+    },
+    {
+      "key": "two",
+      "name": "Two",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://tv.lengniuge.ga/yingshi"
+    },
+    {
+      "key": "three",
+      "name": "Three",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+    }
+  ]
+}
