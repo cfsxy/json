@@ -17,6 +17,10 @@
             "name": "肥猫接口"
         },
         {
+            "url": "http://tv.lengniuge.ga/yingshi",
+            "name": "楞牛接口"
+        },
+        {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "JS收集源"
         }，
