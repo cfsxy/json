@@ -7,9 +7,9 @@
       "playerType": 1
     },
     {
-      "name": "MYIPV6",
+      "name": "BESTV源",
       "type": 0,
-      "url": "http://192.168.1.1/dszb/iptv6.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
       "boot": false
       
     }
