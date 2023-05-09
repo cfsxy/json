@@ -7,6 +7,13 @@
       "playerType": 1
     },
     {
+      "name": "ChinaTV",
+      "type": 0,
+      "https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",      
+    },
+    {
       "name": "BESTV源",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
