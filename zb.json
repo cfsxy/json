@@ -2,15 +2,15 @@
   "lives": [
      {
       "name": "爱尚源",
-    
-      "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u"
-      
+      "type": 0,
+      "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u",
+      "playerType": 1
     },
     {
       "name": "MYIPV6",
-      
-      "url": "http://192.168.1.1/dszb/iptv6.txt"
-      
+      "type": 0,
+      "url": "http://192.168.1.1/dszb/iptv6.txt",
+      "boot": false
       
     }
     
