@@ -11,7 +11,7 @@
       "type":0,
       "https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png",      
+      "logo":"https://epg.112114.xyz/logo/{name}.png"     
     },
     {
       "name":"BESTV源",
