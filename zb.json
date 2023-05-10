@@ -4,6 +4,8 @@
       "name":"MY_IPV6",
       "type":0,
       "url":"http://192.168.1.1/dszb/iptv6.txt",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
       "playerType":1
     },
      {
