@@ -41,14 +41,6 @@
       "playerType":1
     },
     {
-      "name":"北京联通IPTV",
-      "type":0,
-      "url":"https://github.com/Cyril0563/lanjing_live/blob/0805f3be9cff3e538316571681e11a7a88bc1132/IPTV_FREE/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9AIPTV2304.txt",
-      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png",
-      "playerType":1
-    },
-    {
       "name":"湾湾源",
       "type":0,
       "url":"http://52bsj.vip:81/api/v3/file/get/141555/%E5%8C%97TV.txt?sign=a507zYkiy_jUEeziSnUVauECUQsSTTwlgPD4zzH6YwE%3D%3A0",
