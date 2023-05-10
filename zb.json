@@ -1,5 +1,11 @@
 {
   "lives":[
+    {
+      "name":"MY_IPV6",
+      "type":0,
+      "url":"http://192.168.1.1/dszb/iptv6.txt",
+      "playerType":1
+    },
      {
       "name":"爱尚源",
       "type":0,
