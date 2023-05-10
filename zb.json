@@ -3,13 +3,13 @@
      {
       "name":"爱尚源",
       "type":0,
-      "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u",
+      "url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u",
       "playerType":1
     },
     {
       "name":"ChinaTV",
       "type":0,
-      "https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt",
+      "url":"https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"     
     },
