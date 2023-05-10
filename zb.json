@@ -8,6 +8,20 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png",
       "playerType":1
     },
+    {
+      "name":"俊哥",
+      "type":0,
+      "url":"http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
+    {
+      "name":"湾湾源",
+      "type":0,
+      "url":"http://52bsj.vip:81/api/v3/file/get/141555/%E5%8C%97TV.txt?sign=a507zYkiy_jUEeziSnUVauECUQsSTTwlgPD4zzH6YwE%3D%3A0",
+      "playerType":1
+    },
      {
       "name":"爱尚源",
       "type":0,
