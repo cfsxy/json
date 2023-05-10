@@ -32,6 +32,14 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png",
       "playerType":1
     },
+     {
+      "name":"华山TV",
+      "type":0,
+      "url":"http://52bsj.vip:81/api/v3/file/get/138484/%E5%8D%8E%E5%B1%B1TV.txt?sign=HuWcl82dHKtcqP4dnBEqjpfPOuBm_oNCEh4PjT1t1Bw%3D%3A0",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
     {
       "name":"湾湾源",
       "type":0,
