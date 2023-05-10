@@ -17,6 +17,22 @@
       "playerType":1
     },
     {
+      "name":"唐僧",
+      "type":0,
+      "url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
+    {
+      "name":"唐僧2",
+      "type":0,
+      "url":"https://download.kstore.space/download/2863/live.txt",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
+    {
       "name":"湾湾源",
       "type":0,
       "url":"http://52bsj.vip:81/api/v3/file/get/141555/%E5%8C%97TV.txt?sign=a507zYkiy_jUEeziSnUVauECUQsSTTwlgPD4zzH6YwE%3D%3A0",
@@ -26,6 +42,18 @@
       "name":"爱尚源",
       "type":0,
       "url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u",
+      "playerType":1
+    },
+    {
+      "name":"YueChan_IPv6",
+      "type":0,
+      "url":"https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "playerType":1
+    },
+     {
+      "name":"ZHG_IPv6",
+      "type":0,
+      "url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u",
       "playerType":1
     },
     {
