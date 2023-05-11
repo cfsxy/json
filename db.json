@@ -20,6 +20,10 @@
             "url": "http://tv.lengniuge.ga/yingshi",
             "name": "楞牛接口"
         },
+         {
+            "url": "http://jiexi.bulisite.top/iptv.txt",
+            "name": "网络搜集接口"
+        },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀FengMi接口"
