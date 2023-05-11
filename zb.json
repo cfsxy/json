@@ -47,6 +47,14 @@
       "playerType":1
     },
      {
+      "name":"MITV源",
+      "type":0,
+      "url":"http://wl.iptv6.top/5yue/1683530973.txt",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
+     {
       "name":"爱尚源",
       "type":0,
       "url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u",
