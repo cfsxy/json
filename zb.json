@@ -17,6 +17,14 @@
       "playerType":1
     },
     {
+      "name":"Hikerule",
+      "type":0,
+      "url":"http://hiker.nokia.press/hikerule/rulelist.json?id=5388",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
+    {
       "name":"唐僧",
       "type":0,
       "url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
@@ -36,6 +44,14 @@
       "name":"华山TV",
       "type":0,
       "url":"http://52bsj.vip:81/api/v3/file/get/138484/%E5%8D%8E%E5%B1%B1TV.txt?sign=HuWcl82dHKtcqP4dnBEqjpfPOuBm_oNCEh4PjT1t1Bw%3D%3A0",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
+    {
+      "name":"蓝鲸直播源",
+      "type":0,
+      "url":"https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png",
       "playerType":1
