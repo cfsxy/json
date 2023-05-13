@@ -17,14 +17,6 @@
       "playerType":1
     },
     {
-      "name":"Hikerule",
-      "type":0,
-      "url":"http://hiker.nokia.press/hikerule/rulelist.json?id=5388",
-      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png",
-      "playerType":1
-    },
-    {
       "name":"唐僧",
       "type":0,
       "url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
@@ -66,6 +58,14 @@
       "name":"MITV源",
       "type":0,
       "url":"http://wl.iptv6.top/5yue/1683530973.txt",
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
+    },
+    {
+      "name":"Hikerule",
+      "type":0,
+      "url":"http://hiker.nokia.press/hikerule/rulelist.json?id=5388",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png",
       "playerType":1
