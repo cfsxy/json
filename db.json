@@ -2,47 +2,91 @@
     "urls": [
          {
             "url": "http://192.168.1.1:5705/config/2",
-            "name": "自建接口"
+            "name": "🍃自建接口"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风接口"
+            "name": "🌪南风接口"
         },
         {
             "url": "http://饭太硬.ga/tv",
-            "name": "饭太硬接口"
+            "name": "🍚饭太硬接口"
         },  
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫接口"
+            "name": "🐼肥猫接口"
         },
         {
             "url": "http://tv.lengniuge.ga/yingshi",
             "name": "楞牛接口"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "💞多多接口"
         },
          {
             "url": "http://jiexi.bulisite.top/iptv.txt",
             "name": "网络搜集接口"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🚀FengMi接口"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🍯FengMi接口"
         },
         {
             "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "name": "💎甜蜜线路"
+            "name": "🍭甜蜜线路"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "俊哥接口"
+            "name": "🍀俊宇接口"
         },
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "高山流水Js接口"
+            "name": "🌨高山流水Js接口"
         },
         {
             "url": "https://weixine.net/ysc.json",
-            "name": "💖运输车〔多条线路〕"
+            "name": "🚒运输车〔多条线路〕"
+        },
+        {
+            "name":"👁大眼",
+         "url":"https://dybz.store/dybz"
+        },
+        {
+            "name":"🔘精选",
+         "url":"https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"
+        },
+        {
+            "name":"🦉夜猫子",
+         "url":"https://download.kstore.space/download/3313/mao/ymz"
+        },
+        {
+            "name":"😸野猫",
+         "url":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/ymzjp.txt"
+        },
+        {
+            "name":"🍎小苹果",
+         "url":"https://la.kstore.space/download/3376/xpg.txt"
+        },
+        {
+            "name":"💝恋影MAX",
+         "url":"https://max.lianyingtv.com/uploads/itvbox/api.json"
+        },
+        {
+            "name":"🎀元兴",
+            "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json"
+        },
+        {
+            "name":"🏡潇洒",
+            "url":"https://la.kstore.space/download/2863/01.txt"
+        },
+        {
+            "name":"✨精简",
+            "url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json"
+        },
+        {
+            "name":"👭人人影视",
+            "url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"
         },
         {
             "url": "http://dxawi.github.io/0/0.json",
@@ -58,7 +102,7 @@
         },
        {
             "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "🧗‍♀️乱世〔多条线路〕"
+            "name": "🌿乱世〔多条线路〕"
         },
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
@@ -70,11 +114,14 @@
         }, 
         {
             "url": "http://52bsj.vip:98/cl",
-            "name": "月光宝盒"
+            "name": "🌙月光宝盒"
+        },
+        {"name":"🌃月光宝盒JS",
+         "url":"https://jihulab.com/ygbh1/box/-/raw/main/JS/js.json"
         },
          {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "💖月光宝盒家庭版〔多条线路〕"
+            "name": "🌙月光宝盒家庭版〔多条线路〕"
         },
         {
             "url": "http://www.dmtv.ml/mao/single.json",
@@ -106,16 +153,19 @@
         },
         {
             "url": "http://101.34.67.237/config/3",
-            "name": "道长T4接口"
+            "name": "⛲道长T4接口"
         },
-       
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "⛲道长JS""
+        },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "巧儿接口"
+            "name": "💦巧儿接口"
         },
        {
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "😵巧技接口〔多条线路〕"
+            "name": "💦巧技接口〔多条线路〕"
        }
         
 
