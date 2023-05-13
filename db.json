@@ -32,6 +32,10 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🍯FengMi接口"
         },
+         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+            "name": "🍯FengMi接口R"
+        },
         {
             "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "🍭甜蜜线路"
@@ -94,7 +98,7 @@
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "老刘接口"
+            "name": "🍸老刘接口"
         },
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
