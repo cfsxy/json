@@ -5,6 +5,10 @@
             "name": "🍃自建接口"
         },
         {
+            "url": "http://192.168.1.1:5678/tvbox/juhe.json",
+            "name": "🍃自建接口docker"
+        },
+        {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🌪南风接口"
         },
