@@ -96,6 +96,15 @@
       "logo":"https://epg.112114.xyz/logo/{name}.png"     
     },
     {
+      "name":"影子TV",
+      "type":0,
+      "pass": true,      
+      "url":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt",
+      "logo":"http://epg.51zmt.top:8000/{logo}",
+      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "playerType":1
+    },
+    {
       "name":"BESTV源",
       "type":0,
       "url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
