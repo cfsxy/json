@@ -9,6 +9,36 @@
       "playerType":1
     },
     {
+      "name":"MY_IPTV直播",
+      "type":0,
+      "url":"http://192.168.1.1:35455/tv.m3u",
+      "playerType":1
+    },
+     {
+      "name":"MYTV_虎牙一起看",
+      "type":0,
+      "url":"http://192.168.1.1:35455/huyayqk.m3u?url=http://192.168.1.1:35455",
+      "playerType":1
+    },
+     {
+      "name":"MYTV_斗鱼一起看",
+      "type":0,
+      "url":"http://192.168.1.1:35455/douyuyqk.m3u?url=http://192.168.1.1:35455",
+      "playerType":1
+    },
+     {
+      "name":"MYTV_YY轮播",
+      "type":0,
+      "url":"http://192.168.1.1:35455/yylunbo.m3u?url=http://192.168.1.1:35455",
+      "playerType":1
+    },
+     {
+      "name":"MYTV_BiliBili生活",
+      "type":0,
+      "url":"http://192.168.1.1:35455/bililive.m3u?url=http://192.168.1.1:35455",
+      "playerType":1
+    },
+    {
       "name":"俊哥",
       "type":0,
       "url":"http://home.jundie.top:81/Cat/tv/live.txt",
