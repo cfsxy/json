@@ -20,18 +20,6 @@
       "url":"http://192.168.1.1:5000/4gtv.m3u",
       "playerType":1
     },
-    {
-      "name":"江苏移动魔百盒TPTV",
-      "type":0,
-      "url":"http://192.168.1.1:5000/tptv_proxy.m3u",
-      "playerType":1
-    },
-    {
-      "name":"中国移动iTV 平台",
-      "type":0,
-      "url":"http://192.168.1.1:5000/itv_proxy.m3u",
-      "playerType":1
-    },
      {
       "name":"MYTV_虎牙一起看",
       "type":0,
